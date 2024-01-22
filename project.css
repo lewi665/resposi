@@ -1,0 +1,30 @@
+form{
+     background-color: #12f1c9;
+    width: 50%;
+    margin :auto;
+    padding: 30px;
+
+
+}
+.JK{
+    display: flex;
+}
+
+.ls{
+    background-color: #73b93c;
+    margin-left: 40%;
+}
+.ms {
+    background-color: #7171f3;
+
+}
+.qw{
+margin-top: 10px;
+}
+form{
+    align-content: center;
+}
+label {
+     width: 100px;
+     display: inline-flex;
+ }

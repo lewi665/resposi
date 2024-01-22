@@ -1,0 +1,14 @@
+.l1 {
+    display:grid;
+    display: flex;
+
+}
+.l2{
+    display: flex;
+}
+.l3 {
+    display: flex;
+}
+.d3{
+    padding-left: 50px;
+}

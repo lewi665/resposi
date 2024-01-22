@@ -1,0 +1,29 @@
+form{
+      background-color: #3a1421;
+    width: 50%;
+    margin :auto;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+
+}
+.gh{
+
+margin-top: 10px   ;
+
+}
+button{
+    width: 70%;
+    margin-right: 30px;
+}
+body{
+    background-color: #9d385d;
+}
+ label {
+     width: 120px;
+     display: inline-flex;
+     color: white;
+ }
+ .WR{
+     padding-right: 10px;
+ }
